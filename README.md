@@ -1,1 +1,1 @@
-#  Welcome API inventary gestor !
+#  Welcome API inventory manager !
